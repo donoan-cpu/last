@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 /**
  * Write a description of class num4 here.
@@ -24,4 +25,3 @@ System.out.println("Min: " + min);
 System.out.println("Max: " + max);
 
 }}
-}
